@@ -11,7 +11,7 @@
 # The comments throughout this file explain the purpose of each function via REQUIRES, 
   # MODIFIES, and EFFECT (RME) clauses and occasional notes
 # This LIBRARY is organized via a CLASS called !!SpatialAnalysis!!. This was the best
-  # way I would think to organize all the data with abstraction
+  # way I could think to organize all the data with abstraction
 # READ the COMMENTS above !!def __init__!! to understand how to declare an instance
   # of the class
 
